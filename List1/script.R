@@ -1,0 +1,1 @@
+glass <- read.csv("data/glass.csv", sep = "\t")	
